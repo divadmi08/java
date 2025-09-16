@@ -1,0 +1,82 @@
+/* VARIABILI IN PYTHON
+            a = 5
+            s = "ciao"
+            lista = []
+
+            TIPI DI VARIABILI PRIMITIVI
+            int
+            long
+            short
+            char
+            float
+            boolean
+            double
+            char
+
+            TIPI REFERENCE
+            String
+         */
+
+
+        // input ()
+
+        int num1;
+        int num2;
+        int somma;
+
+        String nomePersona;
+        int etaPersona;
+        String yesOrNo;
+
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Inserisci un numero: ");
+        num1 = scanner.nextInt();
+
+        System.out.println("Inserisci un altro numero: ");
+        num2 = scanner.nextInt();
+
+        somma = num1 + num2;
+
+        System.out.println("la somma dei due numeri è: " + somma);
+
+        System.out.println("Inserisci il tuo nome: ");
+        scanner.nextLine();
+        nomePersona = scanner.nextLine();
+
+        System.out.println("anche l'età");
+        etaPersona = scanner.nextInt();
+
+        System.out.println("sei " + nomePersona +" e hai " + etaPersona + " anni?");
+
+        scanner.nextLine();
+        yesOrNo = scanner.nextLine();
+
+        if(Objects.equals(yesOrNo, "yes")){
+            System.out.println("bravo");
+        } else if (Objects.equals(yesOrNo, "no")) {
+            System.out.println("cattivo");
+        }else{
+            System.out.println("muori");
+        }
+
+
+
+ES2
+int num;
+
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("inserisci un numero: ");
+        num = scanner.nextInt();
+
+        if(num % 2 == 0){
+            System.out.println("il numero è pari");
+            if (num > 25) {
+                System.out.println(num/2);
+            }
+        } else if(num % 3 == 0){
+            System.out.println("il numero è dispari e divisibile per 3: " + num / 3);
+        }else{
+            System.out.println("il numero è dispari e non divisibile per 3");
+        }
