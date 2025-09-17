@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/esercizio_casa/esercizio_casa.iml" filepath="$PROJECT_DIR$/esercizio_casa/esercizio_casa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodi_espo.java/metodi_espo.java.iml" filepath="$PROJECT_DIR$/metodi_espo.java/metodi_espo.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ripasso/ripasso.iml" filepath="$PROJECT_DIR$/ripasso/ripasso.iml" />
+    </modules>
+  </component>
+</project>
