@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/esercizio_casa/esercizio_casa.iml" filepath="$PROJECT_DIR$/esercizio_casa/esercizio_casa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_02/es_02.iml" filepath="$PROJECT_DIR$/es_02/es_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercizi_casa_3/esercizi_casa_3.iml" filepath="$PROJECT_DIR$/esercizi_casa_3/esercizi_casa_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercizio_casa_1/esercizio_casa.iml" filepath="$PROJECT_DIR$/esercizio_casa_1/esercizio_casa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/esercizio_casa_2/esercizio_casa_2.iml" filepath="$PROJECT_DIR$/esercizio_casa_2/esercizio_casa_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/metodi_espo.java/metodi_espo.java.iml" filepath="$PROJECT_DIR$/metodi_espo.java/metodi_espo.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/ripasso/ripasso.iml" filepath="$PROJECT_DIR$/ripasso/ripasso.iml" />
